@@ -1,0 +1,15 @@
+__pycache__/
+.idea/
+logs
+
+.env
+
+sample.json
+final-output/
+serper_api_tasks/Address_files/*
+serper_api_tasks/google_outputs_file/*
+serper_api_tasks/serper_outputs_file/*
+
+!serper_api_tasks/Address_files/.gitkeep
+!serper_api_tasks/google_outputs_file/.gitkeep
+!serper_api_tasks/serper_outputs_file/.gitkeep
